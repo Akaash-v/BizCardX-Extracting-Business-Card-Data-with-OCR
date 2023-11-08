@@ -36,6 +36,8 @@ pip install pymongo
 pip install psycopg2
 pip install streamlit
 pip install streamlit_option_menu
+pip install torch
+pip install torch-utils
 ```
 
 **Usage**
