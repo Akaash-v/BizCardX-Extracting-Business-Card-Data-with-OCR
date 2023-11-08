@@ -44,8 +44,9 @@ To use this project, follow these steps:
 
 1. Clone the repository: ```git clone https://github.com/Akaash-v/BizCardX-Extracting-Business-Card-Data-with-OCR.git```
 2. Install the required packages: ```pip install -r requirements.txt```
-3. Run the Streamlit app: ```streamlit run app.py```
-4. Access the app in your browser at ```http://localhost:8501```
+3. Run the Colab_bizcardx.py after giving your imag path on the last line of the file ( text_to_mongodb('your png image path') )
+4. Run the Streamlit app: ```streamlit run app.py```
+5. Access the app in your browser at ```http://localhost:8501```
 
 **Features**
 
