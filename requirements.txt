@@ -1,0 +1,10 @@
+easyocr==1.6.2
+Pillow==9.5.0
+numpy==1.25.2
+pandas==2.1.0
+pymongo==4.5.0
+psycopg2==2.9.7
+streamlit==1.26.0
+streamlit_option_menu==0.3.6
+torch==2.0.0
+torch-utils==0.1.2
